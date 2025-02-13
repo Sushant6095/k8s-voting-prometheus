@@ -4,7 +4,9 @@ A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS E
 
 ![Grafana diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/a1f8de638d1101e087aa1f6550f1e8a7ca05e094/Screenshot%202025-02-11%20133838.png
 )
-https://github.com/Sushant6095/k8s-voting-prometheus/blob/a1f8de638d1101e087aa1f6550f1e8a7ca05e094/Screenshot%202025-02-11%20133838.png
+![Grafana diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/f1645f3d73c530e096e414a27920a233367e2170/Screenshot%202025-02-12%20125419.png
+)
+
 ## Overview
 
 This guide covers the steps to:
