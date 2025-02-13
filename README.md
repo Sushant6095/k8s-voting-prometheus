@@ -20,6 +20,7 @@ This guide covers the steps to:
 
 ## Observability
 
+![Grafana diagram](Screenshot 2025-02-11 133838.png)
 ![Grafana diagram](grafana.png)
 ![Prometheus diagram](prometheus.png)
 
