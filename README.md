@@ -22,7 +22,8 @@ This guide covers the steps to:
 
 ![Grafana diagram](![image](https://github.com/user-attachments/assets/0c1973f2-298f-4156-9b18-ce45cbff4fa5)
 )
-![Grafana diagram]()
+![Grafana diagram](![image](https://github.com/user-attachments/assets/2901937c-0627-4bff-bc05-c5ead3b45686)
+)
 ![Prometheus diagram]()
 ![Grafana diagram](grafana.png)
 ![Prometheus diagram](prometheus.png)
