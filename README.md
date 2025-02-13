@@ -26,8 +26,7 @@ This guide covers the steps to:
 )
 ![Prometheus diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/bd461a36e1948e4e3c603d41ef688d07d25c1372/Screenshot%202025-02-13%20161619.png)
 
-![Grafana diagram](grafana.png)
-![Prometheus diagram](prometheus.png)
+
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
