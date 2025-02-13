@@ -24,7 +24,8 @@ This guide covers the steps to:
 )
 ![Grafana diagram](![image](https://github.com/user-attachments/assets/2901937c-0627-4bff-bc05-c5ead3b45686)
 )
-![Prometheus diagram]()
+![Prometheus diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/bd461a36e1948e4e3c603d41ef688d07d25c1372/Screenshot%202025-02-13%20161619.png)
+
 ![Grafana diagram](grafana.png)
 ![Prometheus diagram](prometheus.png)
 
