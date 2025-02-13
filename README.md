@@ -22,7 +22,7 @@ This guide covers the steps to:
 
 ![Grafana diagram](![image](https://github.com/user-attachments/assets/0c1973f2-298f-4156-9b18-ce45cbff4fa5)
 )
-![Grafana diagram](![image](https://github.com/user-attachments/assets/2901937c-0627-4bff-bc05-c5ead3b45686)
+![Grafana diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/25f149ea9e3fc9673c9c1b30b4998dadf871daa6/Screenshot%202025-02-13%20161551.png
 )
 ![Prometheus diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/bd461a36e1948e4e3c603d41ef688d07d25c1372/Screenshot%202025-02-13%20161619.png)
 
