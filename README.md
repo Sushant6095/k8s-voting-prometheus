@@ -2,6 +2,9 @@
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
+![Grafana diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/a1f8de638d1101e087aa1f6550f1e8a7ca05e094/Screenshot%202025-02-11%20133838.png
+)
+https://github.com/Sushant6095/k8s-voting-prometheus/blob/a1f8de638d1101e087aa1f6550f1e8a7ca05e094/Screenshot%202025-02-11%20133838.png
 ## Overview
 
 This guide covers the steps to:
@@ -20,8 +23,7 @@ This guide covers the steps to:
 
 ## Observability
 
-![Grafana diagram](![image](https://github.com/user-attachments/assets/0c1973f2-298f-4156-9b18-ce45cbff4fa5)
-)
+
 ![Grafana diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/25f149ea9e3fc9673c9c1b30b4998dadf871daa6/Screenshot%202025-02-13%20161551.png
 )
 ![Prometheus diagram](https://github.com/Sushant6095/k8s-voting-prometheus/blob/bd461a36e1948e4e3c603d41ef688d07d25c1372/Screenshot%202025-02-13%20161619.png)
